@@ -1,4 +1,13 @@
-## Hi there 👋
+Olá, eu sou o Rodrigo Gomes dos Santos! 👋
+Desenvolvedor Backend Python em Transição de Carreira
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
+
+🛠️ Foco em Python, Automação, SQL e Inteligência Artificial.
+
+🚔 +20 anos de experiência em segurança pública e análise de dados complexos.
+
+🚀 Buscando aplicar meu rigor analítico na criação de soluções tecnológicas robustas.
 
 <!--
 **rgsantospc-hub/rgsantospc-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
