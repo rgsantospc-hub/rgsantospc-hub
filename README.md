@@ -7,8 +7,8 @@
 ### 👤 About Me / Sobre Mim
 
 - 🇧🇷 **Location:** Based in Rio de Janeiro (Petrópolis), Brazil.
-- 👮 **Professional Background (EN):** Over 24 years of experience as a Civil Police Officer, specialized in investigative logic, data integrity, and security protocols.
-- 👮 **Experiência Profissional (PT):** Mais de 24 anos como Oficial de Polícia Civil, especialista em lógica investigativa, integridade de dados e protocolos de segurança.
+- 👮 **Professional Background (EN):** Over 22 years of experience as a Civil Police Officer, specialized in investigative logic, data integrity, and security protocols.
+- 👮 **Experiência Profissional (PT):** Mais de 22 anos como Oficial de Polícia Civil, especialista em lógica investigativa, integridade de dados e protocolos de segurança.
 - 💻 **Tech Journey (EN):** Currently in the final year of my degree in Systems Analysis and Development (ADS). Focusing on Python, Backend, and Cybersecurity.
 - 💻 **Jornada Tech (PT):** Cursando o último ano de Análise e Desenvolvimento de Sistemas (ADS). Foco em Python, Backend e Cybersecurity.
 
