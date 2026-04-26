@@ -1,25 +1,20 @@
-Olá, eu sou o Rodrigo Gomes dos Santos! 👋
-Desenvolvedor Backend Python em Transição de Carreira
+Rodrigo Gomes dos Santos
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
+**Law Enforcement Officer & Systems Analysis Student (ADS)**
+*Oficial de Polícia Civil | Estudante de Análise e Desenvolvimento de Sistemas*
 
-🛠️ Foco em Python, Automação, SQL e Inteligência Artificial.
+---
 
-🚔 +20 anos de experiência em segurança pública e análise de dados complexos.
+### About Me / Sobre Mim
+- Based in Rio de Janeiro (Petrópolis).
+- **Public Safety Professional:** Over 24 years of experience as a Civil Police Officer, specialized in investigative logic and data integrity.
+- **Tech Transition:** Currently in the final year of Systems Analysis and Development (ADS).
+- **Objective:** Seeking opportunities in Software Testing (QA), Cybersecurity, and Backend Development (Python).
 
-🚀 Buscando aplicar meu rigor analítico na criação de soluções tecnológicas robustas.
+---
 
-<!--
-**rgsantospc-hub/rgsantospc-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack / Habilidades
+- **Programming:** Python (Automation, Web Scraping, Bots).
+- **Security:** Vulnerability Analysis, Network Security, CIA Triad.
+- **Tools:** Git/GitHub, Linux (Kali), SQL, VS Code.
+- **Methodologies:** Agile, Manual and Exploratory Testing (QA).
